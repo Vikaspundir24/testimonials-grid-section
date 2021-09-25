@@ -1,0 +1,80 @@
+/* reset */
+
+* {
+
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: left;
+    background-color: hsl(210, 46%, 95%);
+    padding: 50px;
+}
+
+.B1 {
+    background-color: hsl(263, 55%, 52%);
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-position: 500px 10px;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.para1{
+    color: rgb(255, 255, 255,.7);
+}
+.about {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.name {
+    
+    font-size: 18px;
+    color: white;
+}
+
+.name2{
+    font-size: 18px;
+    color: rgb(0, 0, 0 ,.7);
+}
+.about2{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0,.7);
+}
+
+.para2{
+    color: rgb(0, 0, 0,.5);
+}
+.title {
+    margin-top: 0px;
+    color: rgb(255, 255, 255, .5);
+}
+.title2{
+    color: rgb(0, 0, 0,.5);
+}
+.image{
+    margin-top: 5px;
+    width: 40px;
+}
+.B2 {
+    border-radius: 10px;
+    Background-color: hsl(217, 19%, 35%);
+}
+
+.B3 {
+    border-radius: 10px;
+    Background-color: white;
+}
+
+.B4 {
+    border-radius: 10px;
+    Background-color: hsl(219, 29%, 14%);
+}
+
+.B5 {
+    border-radius: 10px;
+    Background-color: white;
+}
